@@ -1,6 +1,6 @@
 # Python template
 
-This is a super simple template engine for rendering HTML using python interpolation
+This is a PoC template engine for rendering HTML using python interpolation.
 
 ```html
 <python>
